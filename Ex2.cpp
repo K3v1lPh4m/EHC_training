@@ -126,7 +126,7 @@ int evaluate(string s){
 int main(){ 
     //string s;
     //cin>>s;
-    cout << evaluate("(2+3)*2") << endl; 
+    cout << evaluate("( 2 + 3 ) * 2") << endl; 
     
     return 0; 
 }
